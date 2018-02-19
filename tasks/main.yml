@@ -9,6 +9,10 @@
     state: present
     update_cache: yes
   with_items:
+    - https://kojipkgs.fedoraproject.org//packages/http-parser/2.7.1/3.el7/x86_64/http-parser-2.7.1-3.el7.x86_64.rpm
+    - https://kojipkgs.fedoraproject.org//packages/http-parser/2.7.1/3.el7/x86_64/http-parser-devel-2.7.1-3.el7.x86_64.rpm
+    - kernel-headers
+    - kernel-devel
     - git-core
     - curl
     - zlib
@@ -36,3 +40,4 @@
     - nano
     - tree
     - htop
+  
