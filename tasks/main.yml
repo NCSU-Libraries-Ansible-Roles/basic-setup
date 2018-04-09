@@ -15,6 +15,7 @@
     - kernel-devel
     - git
     - git-core
+    - git-lfs
     - curl
     - zlib
     - zlib-devel
