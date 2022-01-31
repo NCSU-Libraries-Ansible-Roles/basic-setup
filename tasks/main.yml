@@ -33,7 +33,6 @@
       - libxml2-devel
       - libxslt-devel
       - libcurl-devel
-      - nodejs
       - httpd
       - httpd-devel
       - nano
