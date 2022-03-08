@@ -19,7 +19,6 @@
       - gcc-c++
       - readline
       - readline-devel
-      - libyaml-devel
       - libffi-devel
       - openssl-devel
       - make
