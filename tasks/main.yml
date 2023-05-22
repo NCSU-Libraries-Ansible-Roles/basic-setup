@@ -38,7 +38,7 @@
       - tree
       - htop
       - vim
-      - vorbis-tools
+#      - vorbis-tools
       - gettext-devel
       - perl-CPAN
       - perl-devel
